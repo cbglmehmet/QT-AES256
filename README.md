@@ -12,7 +12,7 @@ You can include this AES256 encryption/decryption class in your Qt project by fo
 
 1. Clone this repository:
 
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/cbglmehmet/QT-AES256.git
 
 2. Copy the `Aes256Encryption` folder to your project directory.
 
